@@ -1,0 +1,6 @@
+addIngredient("chili jam",{
+type:"sauce",
+shape:"sauce",
+brokenShape:"liquid",
+color: #DB071B,
+adjective: sweet and spicy
